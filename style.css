@@ -1,0 +1,32 @@
+*{
+    font-family: "Urbanist", sans-serif;
+    scroll-behavior: smooth;
+}
+
+/*Landing*/
+
+/*About*/
+
+/*Portfolio*/
+
+/*Contact*/
+
+.title{
+    color: #4c84ff;
+}
+
+.profile{
+    width: 350px;
+    height: auto;
+    align-items: center;
+}
+
+.thumbnail{
+    align-content: center;
+    width: 450px;
+    height: auto;
+}
+
+.project{
+    text-align: center;
+}
